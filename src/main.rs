@@ -6,8 +6,6 @@ fn main() {
 
     println!("你就猜个数，ok？");
 
-    //let mut yee=1 let声明，mut规定变量可变，未声明及默认变量是不可变的（
-    //let ohh=yee
     let mut guess = String ::new();  //声明guess变量，string是字符串，加个new是新建
 
     io ::stdin().read_line(&mut guess).expect("WARNING ERROR 1");  //引用io库，stdin为函数，使用readline和expect方法

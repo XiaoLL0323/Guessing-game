@@ -25,6 +25,7 @@ fn main() {
         Ordering::Greater => println!("nonononono,to big!"), 
         Ordering::Equal => {
             println!("nb啊");
+            println!("好啦你可以一直走啦！");
             break;
         }
        }

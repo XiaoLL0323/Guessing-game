@@ -1,4 +1,4 @@
-    #Guessing game
+# Guessing game
 中文README：[HERE!](/example/REAME_zh.md)
 ___
 Yes!This is a guessing number game.Write and develop in Rust.

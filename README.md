@@ -1,5 +1,5 @@
 # Guessing game
-中文README：[HERE!](/example/REAME_zh.md)
+中文README：[HERE!](/example/README_zh.md)
 ___
 Yes!This is a guessing number game.Write and develop in Rust.
 It is from the official Rust learning manual, but I wrote it myself.

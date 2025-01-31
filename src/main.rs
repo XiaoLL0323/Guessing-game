@@ -30,7 +30,7 @@ fn main() {
         Ordering::Greater => println!("nonononono,to big!"), 
         Ordering::Equal => {
             println!("nb啊");
-            println!("好啦你可以一直走啦！");
+            println!("好啦，你可以走啦！");
             break;
         } //在“loop”中的代码会一直循环下去。在这里，直到猜中的数字等于随机数，才会执行“break”跳出循环
        }
